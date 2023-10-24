@@ -1,30 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Creator: CorelDRAW 2020 (64 Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 21000 29700"
- xmlns:xlink="http://www.w3.org/1999/xlink"
- xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
- <defs>
-  <style type="text/css">
-   <![CDATA[
+
+<svg
+   xml:space="preserve"
+   width="79.567398mm"
+   height="79.567505mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 7956.7398 7956.7505"
+   id="svg4"
+   sodipodi:docname="cadeado.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   inkscape:document-units="mm"
+   inkscape:export-bgcolor="#ffffff00" />&#10; <defs
+   id="defs1"><style
+     type="text/css"
+     id="style1">&#10;   <![CDATA[
     .str1 {stroke:#FEFEFE;stroke-width:20;stroke-miterlimit:22.9256}
     .str0 {stroke:#373435;stroke-width:20;stroke-miterlimit:22.9256}
     .fil1 {fill:#FEFEFE}
     .fil0 {fill:#373435}
-   ]]>
-  </style>
- </defs>
- <g id="Camada_x0020_1">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2697849056192">
-   <path class="fil0 str0" d="M11586.89 2797.62c2191.67,0 3968.37,1776.7 3968.37,3968.38 0,2191.67 -1776.7,3968.37 -3968.37,3968.37 -2191.67,0 -3968.37,-1776.7 -3968.37,-3968.37 0,-2191.68 1776.7,-3968.38 3968.37,-3968.38z"/>
-   <path class="fil1 str1" d="M13281.14 7579.37l-0.46 814.08c-0.05,104.81 -50.66,178.33 -115.02,242.11 -76.77,76.06 -175.82,155.51 -297.39,155.25l-2569.04 -5.46c-72.83,-0.15 -188.52,-69.51 -270.87,-158.99 -71.88,-78.11 -108.16,-173.38 -108.25,-222.54l-3.28 -1650.92c-0.4,-206.05 158.83,-338.16 364.14,-395.04l1.17 -524.38c0.57,-255.94 35.69,-446.08 61.49,-524.74 169.46,-516.58 519.83,-908.23 1238.49,-940.18 741.44,-32.97 1327.53,596.49 1328.69,1312.65l1.09 675.76c189.6,61.67 357.58,202.06 359.55,374.59l9.69 847.81z"/>
-   <path class="fil0 str0" d="M12055.95 5262.96c105.24,118.65 150.95,225.95 152.79,346.63l11.31 742.75 -622.07 -6.7 -616.97 2.35 -13.47 -708.68c-9.78,-515.16 701.14,-812.96 1088.41,-376.35z"/>
-   <g>
-    <polygon class="fil0 str0" points="11411.48,7724.44 11817.86,7727.02 11817.88,8181.64 11403.01,8181.64 "/>
-    <path class="fil0 str0" d="M11411.44 7726.43c-126.96,-61.25 -220.1,-188.25 -220.1,-357.59 0,-228.6 194.74,-406.4 423.34,-406.4 228.6,0 414.86,177.8 414.86,406.4 0,161.51 -100.31,301.07 -211.68,363.49 -5.38,3.01 -400.98,-6.65 -406.42,-5.9z"/>
-   </g>
-  </g>
- </g>
-</svg>
+   ]]>&#10;  </style></defs>&#10; <g
+   id="Camada_x0020_1"
+   inkscape:label="Camada 1"
+   inkscape:groupmode="layer"
+   transform="translate(-7608.5197,-2787.62)">&#10;  <metadata
+   id="CorelCorpID_0Corel-Layer" />&#10;  <g
+   id="_2697849056192"
+   inkscape:export-filename="_2697849056192.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">&#10;   <path
+   class="fil0 str0"
+   d="m 11586.89,2797.62 c 2191.67,0 3968.37,1776.7 3968.37,3968.38 0,2191.67 -1776.7,3968.37 -3968.37,3968.37 -2191.67,0 -3968.37,-1776.7 -3968.37,-3968.37 0,-2191.68 1776.7,-3968.38 3968.37,-3968.38 z"
+   id="path1" />&#10;   <path
+   class="fil1 str1"
+   d="m 13281.14,7579.37 -0.46,814.08 c -0.05,104.81 -50.66,178.33 -115.02,242.11 -76.77,76.06 -175.82,155.51 -297.39,155.25 l -2569.04,-5.46 c -72.83,-0.15 -188.52,-69.51 -270.87,-158.99 -71.88,-78.11 -108.16,-173.38 -108.25,-222.54 l -3.28,-1650.92 c -0.4,-206.05 158.83,-338.16 364.14,-395.04 l 1.17,-524.38 c 0.57,-255.94 35.69,-446.08 61.49,-524.74 169.46,-516.58 519.83,-908.23 1238.49,-940.18 741.44,-32.97 1327.53,596.49 1328.69,1312.65 l 1.09,675.76 c 189.6,61.67 357.58,202.06 359.55,374.59 z"
+   id="path2" />&#10;   <path
+   class="fil0 str0"
+   d="m 12055.95,5262.96 c 105.24,118.65 150.95,225.95 152.79,346.63 l 11.31,742.75 -622.07,-6.7 -616.97,2.35 -13.47,-708.68 c -9.78,-515.16 701.14,-812.96 1088.41,-376.35 z"
+   id="path3" />&#10;   <g
+   id="g4">&#10;    <polygon
+   class="fil0 str0"
+   points="11817.88,8181.64 11403.01,8181.64 11411.48,7724.44 11817.86,7727.02 "
+   id="polygon3" />&#10;    <path
+   class="fil0 str0"
+   d="m 11411.44,7726.43 c -126.96,-61.25 -220.1,-188.25 -220.1,-357.59 0,-228.6 194.74,-406.4 423.34,-406.4 228.6,0 414.86,177.8 414.86,406.4 0,161.51 -100.31,301.07 -211.68,363.49 -5.38,3.01 -400.98,-6.65 -406.42,-5.9 z"
+   id="path4" />&#10;   </g>&#10;  </g>&#10; </g>&#10;</svg>
