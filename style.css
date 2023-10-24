@@ -1,0 +1,140 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.interface {
+   display: flex;
+   height: 100vh;
+   background-color: rgb(245, 241, 241);
+   justify-content: center;
+   align-items: center;
+}
+
+.flex {
+   display: flex;
+   width: 800px;
+   height: 80%;
+   background-color: rgb(219, 199, 238);
+   border-radius: 2%;
+}
+
+.flex .imagem {
+   background-color: #ffffff75;
+   width: 50%;
+   height: 100%;
+   border-radius: 2%;
+   display: flex;
+   justify-content: center;
+}
+
+.flex .user-box {
+   width: 50%;
+   background-color: rgb(238, 238, 158);
+   border-radius: 2%;
+   text-align: center;
+   /* display: flex;  */
+}
+
+.content-user {
+   padding: 30px;
+   border-radius: 4%;
+}
+
+.imagem img {
+   width: 550px;
+   justify-content: center;
+   align-items: center;
+}
+
+h1 {
+   padding-top: 8%;
+}
+
+input {
+   width: 100%;
+   padding: 5px 5px;
+   display: inline-block;
+   border: 0;
+   border-bottom: 2px solid #272262;
+   background-color: transparent;
+   outline: none;
+   min-width: 180px;
+   font-size: 16px;
+   transition: all .3s ease-in-out;
+   border-radius: 0;
+}
+
+.user-content {
+   position: relative;
+   padding-top: 13px;
+   margin-top: 5%;
+   margin-bottom: 5%;
+}
+
+.user-content label {
+   color: #272262;
+   pointer-events: none;
+   position: absolute;
+   top: 0;
+   left: 0;
+}
+
+button {
+   width: 100%;
+   font-size: 12px;
+   background-color: #ff0077;
+   border: 0;
+   border-radius: 14px;
+   padding: 7px;
+   cursor: pointer;
+   outline: none;
+   transition: .2s ease-in-out;
+}
+
+button:hover{
+   transform: scale(1.05);
+}
+
+.justify-center {
+   display: flex;
+   justify-content: center;
+}
+
+hr {
+   margin-top: 1%;
+   margin-bottom: 5%;
+   width: 60%;
+}
+
+ul {
+   list-style-type: none;
+}
+
+ul li {
+   margin-top: 5%;
+   display: inline-flex;
+   justify-content: space-between;
+   margin-left: 5%;
+}
+
+ul li a {
+   display: flex;
+   width: 50px;
+   height: 50px;
+   background-color: #ff0077;
+   text-decoration: none;
+   border-radius: 60%;
+   align-items: center; /* Centralize verticalmente o conteúdo */
+   justify-content: center; /* Centralize horizontalmente o conteúdo */
+}
+
+ul li a:hover {
+   transform: scale(1.05);
+}
+
+ul li a > i {
+   font-size: 25px;
+   color: white;
+}
